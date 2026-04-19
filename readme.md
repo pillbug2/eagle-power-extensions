@@ -1,2 +1,1 @@
-# peagle-smartfolder-regex
-Create smart folder with tag regex matching with Power Eagle
+# Extension library for Power Eagle
