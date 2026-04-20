@@ -5,5 +5,5 @@
 	"type": "button",
 	"keywords": ["files", "create"],
 	"description": "Create files with custom extensions.",
-	"url": "https://github.com/pillbug2/eagle-power-plugins/tree/main/plugins/file-creator.zip"
+	"url": "https://github.com/pillbug2/eagle-power-plugins/raw/refs/heads/main/plugins/file-creator.zip"
 }
