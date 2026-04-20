@@ -1,9 +1,0 @@
-{
-	"id": "com.pillbug2.example-plugin",
-	"name": "Example Plugin",
-	"version": "1.0.0",
-	"type": "button",
-	"keywords": ["example"],
-	"description": "An example plugin for Power Eagle",
-	"url": "https://download-directory.github.io/?url=https://github.com/pillbug2/eagle-power-plugins/tree/main/plugins/example-plugin"
-}

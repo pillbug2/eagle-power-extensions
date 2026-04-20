@@ -1,5 +1,6 @@
 {
-	"name": "Eagle Power Plugins",
+	"id": "com.pillbug2.eagle-power-plugins",
+	"name": "Eagle Power Plugins"
 	"description": "Plugin library for Eagle Power",
 	"maintainer": "pillbug2 <pillbugtwo@pm.me>"
 }

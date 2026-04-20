@@ -1,9 +1,0 @@
-{
-	"id": "file-creator",
-	"name": "File Creator",
-	"version": "2.0.0",
-	"type": "button",
-	"keywords": ["files", "create"],
-	"description": "Create files with custom extensions.",
-	"url": "https://github.com/pillbug2/eagle-power-plugins/raw/refs/heads/main/plugins/file-creator.zip"
-}
